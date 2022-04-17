@@ -1,0 +1,10 @@
+{
+  "ENCRYPTION_KEY": "an_encryption_key=",
+  "ACCOUNTS_DB": "mockaccounts",
+  "DATA_FOLDER": "",
+  "PROMPT": ">",
+  "EXIT_COMMAND": "Exit",
+  "VIEW_ALL_ACCOUNTS_COMMAND": "View",
+  "SKIP_COMMAND": "0",
+  "SKIP_VALUE": 0
+}

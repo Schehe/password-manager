@@ -1,0 +1,10 @@
+{
+  "ENCRYPTION_KEY": "lEPjVt2aFYXjDDYujVUxjRftTWYzKsdPCKQF1yAMeuA=",
+  "ACCOUNTS_DB": "accounts",
+  "DATA_FOLDER": "",
+  "PROMPT": "PWM>",
+  "EXIT_COMMAND": "Exit",
+  "VIEW_ALL_ACCOUNTS_COMMAND": "View",
+  "SKIP_COMMAND": "0",
+  "SKIP_VALUE": 0
+}
